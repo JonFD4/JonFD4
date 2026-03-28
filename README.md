@@ -11,17 +11,17 @@
 ### 🛒 FitFlex (E-commerce App)
 - Django, Stripe API, AWS S3
 - Full-stack app with authentication & payments  
-🔗 Live: [link] | Code: [link]
+
 
 ### 📋 TaskHub (Task Manager)
 - Django, JavaScript  
 - CRUD functionality, Agile workflow  
-🔗 Live: [link] | Code: [link]
+
 
 ### 🎮 Connect 4 AI
 - Python, NumPy, Minimax algorithm  
 - AI decision-making implementation  
-🔗 Live: [link] | Code: [link]
+
 
 ### 🧬 Genomic Mutation App (Ongoing)
 - Python, Pandas, Next.js  
@@ -30,7 +30,7 @@
 ---
 
 ## 🛠 Tech Stack
-Python | Django | JavaScript | SQL | AWS | Git  
+Python | Django | JavaScript | SQL | AWS | Git | HTML | CSS 
 
 ---
 
