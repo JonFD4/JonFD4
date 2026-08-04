@@ -23,7 +23,7 @@
 - AI decision-making implementation  
 
 
-### 🧬 Genomic Mutation App (Ongoing)
+### 🧬 Mutation Analysis
 - Python, Pandas, Next.js  
 - Data analysis + visualisation  
 
